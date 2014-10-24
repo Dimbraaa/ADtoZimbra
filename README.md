@@ -14,7 +14,7 @@ This program :
 Tested with :
 - Red Hat Enterprise Linux Server release 6.4 
 - ZCS Release 8.0.5 NETWORK edition
-- GNU bash, version 4.1.2(1)-release (x86_64-redhat-linux-gnu)
+- GNU bash, version 4.1.2
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
